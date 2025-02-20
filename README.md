@@ -1,0 +1,1 @@
+This code demonstrates a common TypeScript error related to type mismatches.  The `printCoord` function expects an object with `x` and `y` properties of type number. The error arises when we attempt to pass a single number to the function instead of the required object.
